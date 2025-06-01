@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://www.rbc.ua/static/img/s/u/sun_3313646_1280_1_1200x675.jpg"); 
+    background-size: cover;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 56px;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
